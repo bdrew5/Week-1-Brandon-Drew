@@ -9,7 +9,7 @@ public class ArrayFunTester {
         System.out.println("Expected Nums: [5, 10, 3, 9, 15, 4]");
         System.out.println("Actual Nums:" + Arrays.toString(af.getNums()));
 
-        System.out.println("Expected mixedNums: [5, 6, 3, 45, 3, 4]");
+        System.out.println("Expected mixedNums: [4, 6, 3, 45, 3, 5]");
         System.out.println("Actual mixedNums:" + Arrays.toString(af.getMixedNums()));
 
         System.out.println("Expected greatestDiff: 42");
